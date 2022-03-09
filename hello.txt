@@ -2,3 +2,4 @@ hello world --master
 first modification
 ssssssssss --hot fix
 master modify
+hot fix modify
